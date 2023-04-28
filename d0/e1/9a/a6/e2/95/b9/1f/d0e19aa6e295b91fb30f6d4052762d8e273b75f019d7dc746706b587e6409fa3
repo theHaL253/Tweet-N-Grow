@@ -1,0 +1,1 @@
+9999999999{"name": "langdetect", "version": "1.0.7", "summary": "Language detection library ported from Google's language-detection.", "platform": "UNKNOWN", "requires_dist": ["six"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}
